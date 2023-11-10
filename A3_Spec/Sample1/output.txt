@@ -1,0 +1,16 @@
+Clock - Fixed-Local Replacement:
+PID  Process-Name  Turnaround  # Faults  Fault-Times  
+1    process1      38          5         {0, 7, 16, 23, 30}
+2    process2      39          5         {0, 8, 17, 24, 31}
+3    process3      18          1         {0}
+4    process4      37          4         {0, 12, 19, 28}
+
+------------------------------------------------------------
+
+Clock - Variable-Global Replacement:
+PID  Process-Name  Turnaround  # Faults  Fault-Times  
+1    process1      38          5         {0, 7, 16, 23, 30}
+2    process2      39          5         {0, 8, 17, 24, 31}
+3    process3      18          1         {0}
+4    process4      37          4         {0, 12, 19, 28}
+
